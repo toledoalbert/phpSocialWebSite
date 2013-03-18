@@ -1,0 +1,2 @@
+[12-Jun-2012 11:14:11] PHP Warning:  Missing argument 1 for user_exists(), called in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 40 and defined in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 4
+[12-Jun-2012 11:14:11] PHP Fatal error:  Call to undefined function  sanitize() in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 6

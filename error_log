@@ -1,0 +1,147 @@
+[12-Jun-2012 07:24:04] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:24:07] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:24:13] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:24:21] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:24:42] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:27:43] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:36:30] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:36:32] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:36:34] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:36:42] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 07:36:50] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 09:57:18] PHP Parse error:  syntax error, unexpected '?' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 8
+[12-Jun-2012 10:05:31] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 10:05:50] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 10:06:03] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 10:09:14] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 10:09:24] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 10:30:04] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 10:35:38] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 10:38:04] PHP Fatal error:  Call to undefined function  user_exists() in /home2/albertto/public_html/sourceFiles/login.php on line 15
+[12-Jun-2012 10:38:21] PHP Fatal error:  Call to undefined function  user_exists() in /home2/albertto/public_html/sourceFiles/login.php on line 15
+[12-Jun-2012 10:55:49] PHP Fatal error:  Cannot use [] for reading in /home2/albertto/public_html/sourceFiles/login.php on line 41
+[12-Jun-2012 10:56:35] PHP Fatal error:  Cannot use [] for reading in /home2/albertto/public_html/sourceFiles/login.php on line 41
+[12-Jun-2012 10:56:43] PHP Fatal error:  Cannot use [] for reading in /home2/albertto/public_html/sourceFiles/login.php on line 41
+[12-Jun-2012 10:56:54] PHP Fatal error:  Cannot use [] for reading in /home2/albertto/public_html/sourceFiles/login.php on line 41
+[12-Jun-2012 11:03:05] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 11:06:34] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 11:14:17] PHP Warning:  Missing argument 1 for user_exists(), called in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 40 and defined in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 4
+[12-Jun-2012 11:14:17] PHP Fatal error:  Call to undefined function  sanitize() in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 6
+[12-Jun-2012 11:14:23] PHP Warning:  Missing argument 1 for user_exists(), called in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 40 and defined in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 4
+[12-Jun-2012 11:14:23] PHP Fatal error:  Call to undefined function  sanitize() in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 6
+[12-Jun-2012 11:14:28] PHP Warning:  Missing argument 1 for user_exists(), called in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 40 and defined in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 4
+[12-Jun-2012 11:14:28] PHP Fatal error:  Call to undefined function  sanitize() in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 6
+[12-Jun-2012 11:15:54] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 11:18:12] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 11:19:01] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 11:23:32] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 11:30:04] PHP Parse error:  syntax error, unexpected '}' in /home2/albertto/public_html/sourceFiles/login.php on line 44
+[12-Jun-2012 11:30:15] PHP Parse error:  syntax error, unexpected '}' in /home2/albertto/public_html/sourceFiles/login.php on line 44
+[12-Jun-2012 11:30:30] PHP Parse error:  syntax error, unexpected '}' in /home2/albertto/public_html/sourceFiles/login.php on line 44
+[12-Jun-2012 11:30:31] PHP Parse error:  syntax error, unexpected '}' in /home2/albertto/public_html/sourceFiles/login.php on line 44
+[12-Jun-2012 11:34:18] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 11:34:35] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 11:59:08] PHP Fatal error:  Call to undefined function  mysql_real_ecape_string() in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 6
+[12-Jun-2012 12:35:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/login.php:36) in /home2/albertto/public_html/sourceFiles/login.php on line 38
+[12-Jun-2012 13:09:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/login.php:36) in /home2/albertto/public_html/sourceFiles/login.php on line 38
+[12-Jun-2012 13:10:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/login.php:36) in /home2/albertto/public_html/sourceFiles/login.php on line 38
+[12-Jun-2012 14:03:08] PHP Parse error:  syntax error, unexpected ':' in /home2/albertto/public_html/sourceFiles/logout.php on line 5
+[12-Jun-2012 14:03:28] PHP Parse error:  syntax error, unexpected ':' in /home2/albertto/public_html/sourceFiles/logout.php on line 5
+[12-Jun-2012 14:04:30] PHP Parse error:  syntax error, unexpected ':' in /home2/albertto/public_html/sourceFiles/logout.php on line 5
+[12-Jun-2012 14:06:10] PHP Parse error:  syntax error, unexpected ':' in /home2/albertto/public_html/sourceFiles/logout.php on line 5
+[12-Jun-2012 14:18:25] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[12-Jun-2012 14:18:56] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[12-Jun-2012 14:40:29] PHP Fatal error:  Call to undefined function  loggedin() in /home2/albertto/public_html/sourceFiles/core/init.php on line 17
+[12-Jun-2012 14:40:35] PHP Fatal error:  Call to undefined function  loggedin() in /home2/albertto/public_html/sourceFiles/core/init.php on line 17
+[12-Jun-2012 14:40:41] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[12-Jun-2012 14:40:44] PHP Fatal error:  Call to undefined function  loggedin() in /home2/albertto/public_html/sourceFiles/core/init.php on line 17
+[12-Jun-2012 15:34:04] PHP Parse error:  syntax error, unexpected '<' in /home2/albertto/public_html/sourceFiles/includes/widgets/user_count.php on line 17
+[12-Jun-2012 15:34:09] PHP Parse error:  syntax error, unexpected '<' in /home2/albertto/public_html/sourceFiles/includes/widgets/user_count.php on line 17
+[12-Jun-2012 15:34:14] PHP Parse error:  syntax error, unexpected '<' in /home2/albertto/public_html/sourceFiles/includes/widgets/user_count.php on line 17
+[12-Jun-2012 15:34:22] PHP Parse error:  syntax error, unexpected '<' in /home2/albertto/public_html/sourceFiles/includes/widgets/user_count.php on line 17
+[12-Jun-2012 15:34:25] PHP Parse error:  syntax error, unexpected '<' in /home2/albertto/public_html/sourceFiles/includes/widgets/user_count.php on line 17
+[12-Jun-2012 15:34:29] PHP Parse error:  syntax error, unexpected '<' in /home2/albertto/public_html/sourceFiles/includes/widgets/user_count.php on line 17
+[12-Jun-2012 16:43:12] PHP Parse error:  syntax error, unexpected ')' in /home2/albertto/public_html/sourceFiles/register.php on line 36
+[12-Jun-2012 16:47:27] PHP Fatal error:  Call to undefined function  prag_match() in /home2/albertto/public_html/sourceFiles/register.php on line 24
+[12-Jun-2012 16:47:45] PHP Fatal error:  Call to undefined function  prag_match() in /home2/albertto/public_html/sourceFiles/register.php on line 24
+[12-Jun-2012 16:54:51] PHP Fatal error:  Call to undefined function  prag_match() in /home2/albertto/public_html/sourceFiles/register.php on line 24
+[12-Jun-2012 17:15:58] PHP Fatal error:  Call to undefined function  prag_match() in /home2/albertto/public_html/sourceFiles/register.php on line 24
+[12-Jun-2012 17:17:04] PHP Fatal error:  Call to undefined function  prag_match() in /home2/albertto/public_html/sourceFiles/register.php on line 24
+[12-Jun-2012 17:17:15] PHP Fatal error:  Call to undefined function  prag_match() in /home2/albertto/public_html/sourceFiles/register.php on line 24
+[13-Jun-2012 02:59:12] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 9
+[13-Jun-2012 02:59:22] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 9
+[13-Jun-2012 03:03:21] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[13-Jun-2012 03:04:39] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 03:06:01] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 9
+[13-Jun-2012 03:06:09] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 9
+[13-Jun-2012 03:07:28] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 03:09:22] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[13-Jun-2012 03:10:27] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 9
+[13-Jun-2012 03:11:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 9
+[13-Jun-2012 03:12:11] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[13-Jun-2012 03:20:47] PHP Parse error:  syntax error, unexpected T_STRING in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 11
+[13-Jun-2012 03:25:37] PHP Parse error:  syntax error, unexpected T_STRING in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 11
+[13-Jun-2012 03:43:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/register.php on line 82
+[13-Jun-2012 03:52:55] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/register.php on line 82
+[13-Jun-2012 07:55:39] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/changepassword.php on line 31
+[13-Jun-2012 07:55:52] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/changepassword.php on line 31
+[13-Jun-2012 08:01:07] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 38
+[13-Jun-2012 08:01:54] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 38
+[13-Jun-2012 08:03:55] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 38
+[13-Jun-2012 08:30:47] PHP Parse error:  syntax error, unexpected ')' in /home2/albertto/public_html/sourceFiles/changepassword.php on line 50
+[13-Jun-2012 08:40:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/changepassword.php on line 51
+[13-Jun-2012 15:10:53] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 20
+[13-Jun-2012 15:12:17] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 19
+[13-Jun-2012 15:13:05] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 19
+[13-Jun-2012 15:15:13] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:15:16] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:16:14] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 19
+[13-Jun-2012 15:17:51] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[13-Jun-2012 15:19:10] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:20:24] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:21:41] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 19
+[13-Jun-2012 15:23:04] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[13-Jun-2012 15:24:58] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:26:17] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:27:45] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:29:31] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:30:29] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:31:21] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[13-Jun-2012 15:32:37] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:34:17] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[13-Jun-2012 15:35:55] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[13-Jun-2012 15:38:46] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 19
+[13-Jun-2012 15:39:52] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[13-Jun-2012 15:42:57] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 19
+[13-Jun-2012 15:47:00] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 19
+[13-Jun-2012 15:51:14] PHP Parse error:  syntax error, unexpected '[' in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 19
+[13-Jun-2012 16:31:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/activate.php on line 32
+[13-Jun-2012 16:40:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/activate.php on line 46
+[13-Jun-2012 16:42:21] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/activate.php on line 52
+[13-Jun-2012 17:11:27] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/activate.php on line 44
+[14-Jun-2012 02:46:58] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/activate.php on line 44
+[14-Jun-2012 05:31:24] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home2/albertto/public_html/sourceFiles/settings.php on line 36
+[14-Jun-2012 05:54:07] PHP Parse error:  syntax error, unexpected $end in /home2/albertto/public_html/sourceFiles/settings.php on line 63
+[14-Jun-2012 05:56:26] PHP Parse error:  syntax error, unexpected '{' in /home2/albertto/public_html/sourceFiles/settings.php on line 47
+[14-Jun-2012 05:56:31] PHP Parse error:  syntax error, unexpected '{' in /home2/albertto/public_html/sourceFiles/settings.php on line 47
+[14-Jun-2012 05:56:35] PHP Parse error:  syntax error, unexpected '{' in /home2/albertto/public_html/sourceFiles/settings.php on line 47
+[14-Jun-2012 06:20:37] PHP Parse error:  syntax error, unexpected '{' in /home2/albertto/public_html/sourceFiles/settings.php on line 61
+[14-Jun-2012 06:22:59] PHP Parse error:  syntax error, unexpected '{' in /home2/albertto/public_html/sourceFiles/settings.php on line 61
+[14-Jun-2012 06:25:54] PHP Parse error:  syntax error, unexpected '{' in /home2/albertto/public_html/sourceFiles/settings.php on line 61
+[14-Jun-2012 06:29:02] PHP Parse error:  syntax error, unexpected '{' in /home2/albertto/public_html/sourceFiles/settings.php on line 61
+[14-Jun-2012 06:39:40] PHP Parse error:  syntax error, unexpected '{' in /home2/albertto/public_html/sourceFiles/settings.php on line 61
+[14-Jun-2012 11:33:45] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/includes/aside.php on line 3
+[14-Jun-2012 15:15:02] PHP Fatal error:  Call to undefined function  ecrypt() in /home2/albertto/public_html/sourceFiles/register.php on line 69
+[14-Jun-2012 15:17:47] PHP Fatal error:  Call to undefined function  ecrypt() in /home2/albertto/public_html/sourceFiles/register.php on line 69
+[14-Jun-2012 15:19:37] PHP Fatal error:  Call to undefined function  logged_in() in /home2/albertto/public_html/sourceFiles/core/init.php on line 18
+[14-Jun-2012 15:22:55] PHP Fatal error:  Call to undefined function  ecrypt() in /home2/albertto/public_html/sourceFiles/register.php on line 69
+[14-Jun-2012 16:09:40] PHP Parse error:  syntax error, unexpected T_EMPTY in /home2/albertto/public_html/sourceFiles/recover.php on line 20
+[14-Jun-2012 16:09:54] PHP Parse error:  syntax error, unexpected T_EMPTY in /home2/albertto/public_html/sourceFiles/recover.php on line 20
+[14-Jun-2012 16:12:45] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/albertto/public_html/sourceFiles/recover.php on line 26
+[14-Jun-2012 16:12:50] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/albertto/public_html/sourceFiles/recover.php on line 26
+[14-Jun-2012 16:12:58] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/albertto/public_html/sourceFiles/recover.php on line 26
+[14-Jun-2012 17:57:06] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 26
+[14-Jun-2012 17:58:49] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home2/albertto/public_html/sourceFiles/includes/overall/header.php:3) in /home2/albertto/public_html/sourceFiles/core/functions/general.php on line 26
+[14-Jun-2012 18:20:40] PHP Fatal error:  Call to undefined function  int() in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 6
+[14-Jun-2012 18:21:08] PHP Fatal error:  Call to undefined function  int() in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 6
+[14-Jun-2012 18:21:38] PHP Fatal error:  Call to undefined function  int() in /home2/albertto/public_html/sourceFiles/core/functions/users.php on line 6
